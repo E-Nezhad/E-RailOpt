@@ -1,0 +1,44 @@
+.matrix-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.matrix-block {
+  margin-bottom: 40px;
+}
+
+.matrix-scroll {
+  overflow-x: auto;
+}
+
+.matrix-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  text-align: center;
+}
+
+.matrix-table td, .matrix-table th {
+  border: 1px solid #999;
+  padding: 8px;
+  min-width: 100px;
+}
+
+.matrix-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.run-algo-btn {
+  margin: 1em 0;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  background-color: #0077cc;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.run-algo-btn:hover {
+  background-color: #005fa3;
+}

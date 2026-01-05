@@ -1,0 +1,20 @@
+fastapi>=0.110.0  # Latest version as of March 2025
+uvicorn
+pandas
+numpy
+scipy  # For interpolation
+openpyxl  # For reading .xlsx files
+matplotlib  # For plotting
+flask
+flask-cors
+requests
+shapely
+networkx
+xlwt
+pyexcel
+pyexcel-xls
+pyexcel-xlsx
+pyomo
+xls2xlsx
+xlsxwriter
+gurobipy
